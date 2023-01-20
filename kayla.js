@@ -41,7 +41,6 @@ const owner = JSON.parse(fs.readFileSync('./database/owner.json'))
 const prem = JSON.parse(fs.readFileSync('./database/premium.json'))
 const db_respon_list = JSON.parse(fs.readFileSync('./database/list.json'))
 const pendaftar = JSON.parse(fs.readFileSync('./database/user.json'))
-grups = JSON.parse(fs.readFileSync('./database/grups.json'))
 const vnnye = JSON.parse(fs.readFileSync('./database/vnadd.json'))
 const dblist = JSON.parse(fs.readFileSync('./database/listall.json'))
 
